@@ -1,0 +1,6 @@
+{
+  "name": "agent-yara-generador-de-ideas-de-negocio--mors60li",
+  "version": "1.0.0",
+  "description": "Proyecto de Yara [Gen16]: generador de ideas de negocio con validacion",
+  "main": "index.js"
+}
